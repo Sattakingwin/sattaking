@@ -1,10 +1,10 @@
 ## Welcome to Satta King
 
-Betting games are typical in our country For a long time. Traditionally betting games had been performed using boards and dices, however as time has advanced, the Satta Bajar games have spread their roots inside the technology region. Almost each huge sports deal with betting legally or illegally, and [Satta King](https://www.sattaking.win/) is chargeable for good sized bettings around the sector. [editor on GitHub](https://github.com/divyachaudhry/sattaking/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Betting games are typical in our country For a long time. Traditionally betting games had been performed using boards and dices, however as time has advanced, the Satta Bajar games have spread their roots inside the technology region. Almost each huge sports deal with betting legally or illegally, and [Satta King](https://www.sattaking.win/) is chargeable for good sized bettings around the sector. 
 # Satta King Online | Satta King | Satta Play 
-In India, as it is illegal to play Satta Bajar games offline, the technology pseudos have created a website like Satta King Delhi, Satta King Ghaziabad, Satta King Rajasthan below Satta King Online  The Satta King Online platform affords you an unmarketable enjoy if you like to play Satta Number video games. People round the arena were given blessings from making a bet video games through incomes a sizeable sum of money, investing a little money and time.Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In India, as it is illegal to play Satta Bajar games offline, the technology pseudos have created a website like Satta King Delhi, Satta King Ghaziabad, Satta King Rajasthan below Satta King Online  The Satta King Online platform affords you an unmarketable enjoy if you like to play Satta Number video games. People round the arena were given blessings from making a bet video games through incomes a sizeable sum of money, investing a little money and time.
 
-### | Satta King Jodi Play | Satta King win | Satta Bazar
+### Satta King Jodi Play | Satta King win | Satta Bazar
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://scontent.famd5-1.fna.fbcdn.net/v/t1.0-9/s960x960/93873306_217427026369954_6705465502732386304_o.jpg?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=auQSKFNDtPMAX_Og468&_nc_ht=scontent.famd5-1.fna&_nc_tp=7&oh=142a28dddbef6355c5566a3f118bc600&oe=5F4F87B9](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
