@@ -5,7 +5,7 @@ Betting games are typical in our country For a long time. Traditionally betting 
 In India, as it is illegal to play Satta Bajar games offline, the technology pseudos have created a website like Satta King Delhi, Satta King Ghaziabad, Satta King Rajasthan below Satta King Online  The Satta King Online platform affords you an unmarketable enjoy if you like to play Satta Number video games. People round the arena were given blessings from making a bet video games through incomes a sizeable sum of money, investing a little money and time.
 
 ### Satta King Jodi Play | Satta King win | Satta Bazar
-[image](https://scontent.famd5-1.fna.fbcdn.net/v/t1.0-9/s960x960/93873306_217427026369954_6705465502732386304_o.jpg?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=auQSKFNDtPMAX_Og468&_nc_ht=scontent.famd5-1.fna&_nc_tp=7&oh=142a28dddbef6355c5566a3f118bc600&oe=5F4F87B9)
+<img src="https://scontent.famd5-1.fna.fbcdn.net/v/t1.0-9/s960x960/93873306_217427026369954_6705465502732386304_o.jpg?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=auQSKFNDtPMAX_Og468&_nc_ht=scontent.famd5-1.fna&_nc_tp=7&oh=142a28dddbef6355c5566a3f118bc600&oe=5F4F87B9">
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
